@@ -1,0 +1,36 @@
+.dropdown-menu{
+    margin: 0px;
+}
+
+.imagem-carrossel {
+    object-fit: cover;
+    height: 400px;
+}
+
+.fonte-texto {
+    font-family: 'McLaren', cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+}
+
+.fonte-titulo-card {
+    font-family: 'McLaren', cursive;
+    font-size: 20px;
+    color: blueviolet;
+}
+
+.fonte-texto-card-footer {
+    font-family: 'McLaren', cursive;
+    font-size: 15px;
+}
+.imagem-card {
+    object-fit: cover;
+    height: 286px;
+}
+
+.borda-card {
+    border-color: whitesmoke;
+}
+
+

@@ -1,0 +1,39 @@
+body {
+    background-color: plum;
+    font-family: "Courier New";
+}
+
+body div {
+    display: flex;
+    width: 330px;
+    height: 210px;
+    margin: 0 auto;
+    border: 2px dashed black;    
+    padding: 10px;  
+    background-color: rgb(192, 191, 191);    
+}
+
+button {
+    transition-duration: 0.4s;
+    background-color: orange;
+}
+
+button:hover {
+    background-color:powderblue;
+    color:gray;
+}
+
+h1{
+    text-align: center;
+    color:black;
+}
+
+a{
+    text-decoration: none;
+    background-color: powderblue;
+    color:black;
+    border: 1px solid black;
+}
+
+
+
